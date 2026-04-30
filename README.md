@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @kennedykauan
-- 👀 I’m interested in become a fullstack dev
-- 🌱 I’m currently learning HTML e CSS
-- 💞️ I’m looking to collaborate on my future
-- 📫 How to reach me ig @__kennedyzz_
+Oi meu nome é Kennedy Kauan e eu gosto de automatizar coisas com python.
 
 <!---
 kennedykauan/kennedykauan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

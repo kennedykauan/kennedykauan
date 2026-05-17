@@ -1,4 +1,5 @@
-Oi meu nome é Kennedy Kauan eu amo TI e gosto de automatizar coisas utilizando python.
+<h1>Oi meu nome é Kennedy Kauan<h1></h1> 
+Gosto de inteligência artificial, banco de dados e automatizar coisas utilizando python.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Kennedy-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">

@@ -5,6 +5,7 @@
   <img align="center" alt="Kennedy-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Kennedy-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Kennedy-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Kennedy-CSS" height="30" width="40" src="https://www.flaticon.com/br/icone-gratis/arquivo-de-banco-de-dados_9672250?term=banco+de+dados&page=1&position=7&origin=tag&related_id=9672250">
 </div>
   
   ##

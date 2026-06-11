@@ -1,5 +1,5 @@
 <h1>Oi meu nome é Kennedy Kauan</h1> 
-<p>Sou Dev focado no backend. Eu gosto de inteligência artificial, banco de dados e automatizar coisas utilizando python.</p>
+<p>Sou Dev focado no backend. Eu gosto de estudar inteligência artificial, banco de dados e automatizar coisas utilizando python.</p>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Kennedy-Python" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Python-Dark.svg">

@@ -3,7 +3,6 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Kennedy-Python" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Python-Dark.svg">
-  <img align="center" alt="Kennedy-bots" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/DiscordBots.svg">
   <img align="center" alt="Kennedy-Git" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Git.svg">
   <img align="center" alt="Kennedy-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/MySQL-Dark.svg">
   <img align="center" alt="Kennedy-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">

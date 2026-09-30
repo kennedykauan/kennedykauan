@@ -7,6 +7,7 @@
   <img align="center" alt="Kennedy-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/MySQL-Dark.svg">
   <img align="center" alt="Kennedy-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Kennedy-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Kennedy-CSS" height="30" width="40" src="https://skillicons.dev/icons?i=c" alt="C Logo" height="40" />
 </div>
   
   ##
